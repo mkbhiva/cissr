@@ -20,7 +20,6 @@ application/config/
 application/core/
 application/hooks/
 application/language/
-application/modules/
 application/third_party
 application/.htaccess
 application/index.html
